@@ -1,1 +1,5 @@
+mv your binary file to bin/
+
+modify ctf.xinetd 13th line 
+
 docker build -t "name" .
